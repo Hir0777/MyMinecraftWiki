@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(169, 213, 219);}
+
+  h1 {
+    color: rgb(30, 30, 155);
+    font-family: 'Times New Roman', Times, serif}
+
+  h2 {
+    color: rgb(25, 25, 129);
+    font-family: 'Times New Roman', Times, serif}
+
+  h3 {
+    color: rgb(0, 0, 128);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;}
+
+  p {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+    border-style: double;
+    border-color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;}
+
+small {
+    color: rgb(98, 139, 145)}
+
+
+  a {
+    font-family: Arial, Helvetica, sans-serif;}
+
+  a:link {
+    color: rgb(0, 0, 128);
+    background-color: transparent;
+    text-decoration: none;}
+  
+  a:visited {
+    color: rgb(0, 0, 128);
+    background-color: transparent;
+    text-decoration: none;}
+  
+  a:hover {
+    color: rgb(0, 162, 255);
+    background-color: transparent;
+    text-decoration: underline;}
+  
+  a:active {
+    color: rgb(139, 139, 69);
+    background-color: transparent;
+    text-decoration: underline;}
+
+
+  th, td {
+    border: 2px dashed aliceblue;
+    border-radius: 5px;
+    padding: 1%;
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;}
+
+ul {
+    list-style-type: circle;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+}
+
+iframe {
+    border: 2px solid rgb(0, 0, 128);
+    border-radius: 5px;
+    padding: 1%;
+}
+
+.timeline {
+    border-left: 5px double aliceblue;
+    border-top: 5px double aliceblue;
+    border-radius: 5px;
+    padding: 1%;
+}
